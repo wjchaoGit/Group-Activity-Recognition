@@ -9,7 +9,8 @@ Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.1011
         
 
 
-##Dependencies
+## Dependencies
+
 - Python `3.x`
 - PyTorch `0.4.1`
 - numpy, pickle, scikit-image
@@ -19,7 +20,7 @@ Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.1011
 
 
 
-##Prepare Datasets
+## Prepare Datasets
 
 1. Download [volleyball](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) or [collective](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) dataset file.
 2. Unzip the dataset file into `data/volleyball` or `data/collective`.
@@ -27,7 +28,7 @@ Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.1011
 
 
 
-##Get Started
+## Get Started
 
 1. Stage1: Fine-tune the model on single frame without using GCN.
 
@@ -53,7 +54,8 @@ Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.1011
 
 
 
-##Citation
+## Citation
+
 ```
 @inproceedings{CVPR2019_ARG,
   title = {Learning Actor Relation Graphs for Group Activity Recognition},
