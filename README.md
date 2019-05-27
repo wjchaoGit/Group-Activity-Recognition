@@ -22,7 +22,7 @@ Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.1011
 
 ## Prepare Datasets
 
-1. Download [volleyball](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) or [collective](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) dataset file.
+1. Download [volleyball](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) or [collective](http://vhosts.eecs.umich.edu/vision//ActivityDataset.zip) dataset file.
 2. Unzip the dataset file into `data/volleyball` or `data/collective`.
 
 
